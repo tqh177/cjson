@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "additionalItems": {
+        "type": [
+            "array",
+            "boolean",
+            "integer",
+            "null",
+            "number",
+            "object",
+            "string"
+        ],
+        "title": "",
+        "required": [
+            "123",
+            "456",
+            "789"
+        ],
+        "allOf": [
+            {}
+        ]
+    }
+}
